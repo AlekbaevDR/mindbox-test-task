@@ -1,4 +1,8 @@
-﻿using Shape.Calculation.Interfaces;
+﻿/*
+ * Данный класс позволяет создавать Треугольники, при этом конструтор данного класса может быть перегружен, 
+ * тем самым можно будет создавать треугольник по двум сторонам.
+ */
+using Shape.Calculation.Interfaces;
 using Shape.Calculation.Shapes;
 
 namespace Shape.Calculation.Creators

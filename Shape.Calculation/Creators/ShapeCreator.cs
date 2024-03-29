@@ -1,6 +1,9 @@
-﻿
+﻿/*
+ * Данный класс позволяет создавать фигуры основываясь на количестве параметров переденных в метод Creat.
+ * Изменяя их можно создавать фигуру основываясь на количестве сторон 
+*/
 using Shape.Calculation.Interfaces;
-using Shape.Calculation.Shapes;
+
 namespace Shape.Calculation.Creators
 {
     /// <summary>
